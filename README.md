@@ -16,7 +16,7 @@ A responsive web-based clock featuring both analog and digital displays, built w
 
 ## File Structure
 ```
-analog-clock/
+Analog/
 │── analog.html
 │── analog.css
 │── analog.js
